@@ -118,7 +118,7 @@ ul li a {
     height: 60vh;
     background: url(../images/hero.jpg) 50% 50% no-repeat;
     background-size: cover;
-    opacity: 0.85;
+    opacity: 0;
     transition: 1s ease-in-out;
 }
 
